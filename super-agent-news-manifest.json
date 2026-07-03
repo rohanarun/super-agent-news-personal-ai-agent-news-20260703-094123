@@ -1,0 +1,33 @@
+{
+  "citations": [
+    "[techcrunch.com](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)",
+    "[siliconangle.com](https://siliconangle.com/2026/07/02/mark-zuckerberg-says-metas-agentic-ai-efforts-arent-progressing-fast-hed-hoped/)",
+    "[reuters.com](https://www.aol.com/articles/exclusive-zuckerberg-says-ai-agent-201123000.html)",
+    "[awesomeagents.ai](https://awesomeagents.ai/news/zuckerberg-meta-agents-behind-schedule/)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/01/gemini-spark-google-agentic-assistant-mac/)",
+    "[bgr.com](https://www.bgr.com/tech/your-google-gemini-data-is-being-used-for-a-lot-more-than-just-sending-you-ads/)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=1120px_2.5_lines; AIDA=pass; bento_density=grid-auto-flow:dense; contrast_check=pass; label_sweep=complete",
+  "generated_at": "2026-07-03T09:41:30.982041+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A continuously refreshed editorial brief for buyers and builders tracking personal AI agents \u2014 covering ChatGPT, Gemini, Grok, Siri, Folk, Orchids, and why durable computer\u2011use agents with a reusable computer-use cache are emerging as the sharper path forward."
+}
